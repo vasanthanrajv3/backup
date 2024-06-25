@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 
 import '../../utils/constant.dart';
 import '../../utils/local_storage.dart';
-import '../../widgets/snackBars.dart';
+import '../../widgets/snack_bars.dart';
 
 class PostAPI {
   final GetConnect connect = Get.find<GetConnect>();
